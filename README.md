@@ -1,7 +1,9 @@
 # Email_Validator
-getting started.
-1. download the project to your workspace.
-2. initialize npm init -y in right directory
-3. install required dependencies.
-4. write node app.js in your terminal.
-5. enjoy checking your email status.
+
+## Installation
+1. write command npm init -y in your terminal.
+2. install required dependencies.
+3. use command node app.js to start the server.
+
+#About
+<p>A website to validate your emails, to know about the status of an email.</p>
